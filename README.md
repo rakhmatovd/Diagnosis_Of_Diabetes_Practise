@@ -1,1 +1,1 @@
-# Diagnosis_Of_Diabetes_Practise
+# Diagnosis Of Diabetes Practise
